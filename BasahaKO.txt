@@ -1,0 +1,13 @@
+Hi Broo, before nimo ni ma pa run pang install sani sila
+
+install 1:
+npm install vite --save-dev
+
+install 2: 
+npm install
+
+install 3:
+composer install
+
+Kani lang bro mapa run nani nimo sab.
+if naay problem sa Database mag error bro igna lang ko sab, kay wala pasab nay database kuyaw mag error.
